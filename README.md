@@ -7,12 +7,12 @@ Features =>
 
 Shopping Cart:
 
-Add products, adjust quantities, and view subtotals.
+=== Add products, adjust quantities, and view subtotals.
 
 Profile Management: 
 
-Manage email, username, and addresses.
+=== Manage email, username, and addresses.
 
 Order Management: 
 
-Create new orders and view order history and payment.
+=== Create new orders and view order history and payment.

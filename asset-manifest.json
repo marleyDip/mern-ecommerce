@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MERN-ECOMMERCE/static/css/main.df5cc3e6.css",
+    "main.js": "/MERN-ECOMMERCE/static/js/main.cf720813.js",
+    "static/js/453.d854ef57.chunk.js": "/MERN-ECOMMERCE/static/js/453.d854ef57.chunk.js",
+    "static/media/camera.jpg": "/MERN-ECOMMERCE/static/media/camera.844fb52ecb06b39bef30.jpg",
+    "static/media/earphone.jpg": "/MERN-ECOMMERCE/static/media/earphone.97c2d8c1ef3500a82b65.jpg",
+    "static/media/logo.png": "/MERN-ECOMMERCE/static/media/logo.32db8d8cd0e1251c946a.png",
+    "static/media/smartwatch.jpg": "/MERN-ECOMMERCE/static/media/smartwatch.9d7d3b8455270ac703d4.jpg",
+    "index.html": "/MERN-ECOMMERCE/index.html",
+    "main.df5cc3e6.css.map": "/MERN-ECOMMERCE/static/css/main.df5cc3e6.css.map",
+    "main.cf720813.js.map": "/MERN-ECOMMERCE/static/js/main.cf720813.js.map",
+    "453.d854ef57.chunk.js.map": "/MERN-ECOMMERCE/static/js/453.d854ef57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df5cc3e6.css",
+    "static/js/main.cf720813.js"
+  ]
+}

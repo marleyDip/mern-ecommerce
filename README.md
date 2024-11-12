@@ -1,18 +1,17 @@
-MERN E-commerce: A Seamless Shopping Experience Powered by React.JS, Firebase, and Bootstraps.
+<h1>MERN E-commerce: A Seamless Shopping Experience Powered by React.JS, Firebase, and Bootstraps.</h1>
 
-Live Server: https://marleydip.github.io/mern-ecommerce/
+<h2>Live Server: https://marleydip.github.io/mern-ecommerce</h2>
 
-Features =>
+<h3>Features =></h3>
 
+<h4>Shopping Cart:</h4>
 
-Shopping Cart:
+<h6>=== Add products, adjust quantities, and view subtotals.</h6>
 
-=== Add products, adjust quantities, and view subtotals.
+<h4>Profile Management: </h4>
 
-Profile Management: 
+<h6>=== Manage email, username, and addresses.</h6>
 
-=== Manage email, username, and addresses.
+<h4>Order Management: </h4>
 
-Order Management: 
-
-=== Create new orders and view order history and payment.
+<h6>=== Create new orders and view order history and payment.</h6>
